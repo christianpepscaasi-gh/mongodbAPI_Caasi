@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "nodeman": "^1.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianpepscaasi-gh/mongodbAPI_Caasi.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/christianpepscaasi-gh/mongodbAPI_Caasi/issues"
+  },
+  "homepage": "https://github.com/christianpepscaasi-gh/mongodbAPI_Caasi#readme"
 }
