@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const connectDB = require('./config/db');
 const Product = require('./models/Product');
-const validateProduct = require('./middlware/validateProduct');
+const validateProduct = require('./middleware/validateProduct');
 
 //Connect to MongoDB
 connectDB();
